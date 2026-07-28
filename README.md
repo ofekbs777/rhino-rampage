@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Rhino_Rampage-v1.0_Release-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Version">
+  <a href="https://rhino-rage-run.base44.app/"><img src="https://img.shields.io/badge/🎮_Play_Now-Launch_Game-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Game"></a>
   <img src="https://img.shields.io/badge/Tech_Stack-React_%2B_Canvas_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Tech Stack">
   <img src="https://img.shields.io/badge/Mobile-Virtual_Joystick-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Joystick">
   <img src="https://img.shields.io/badge/Genre-Neon_Retro_Arcade-purple?style=for-the-badge" alt="Genre">
@@ -13,14 +14,23 @@
 </p>
 
 <p align="center">
+  <a href="#-quick-links">Quick Links</a> •
   <a href="#-gameplay-previews">Previews</a> •
   <a href="#-executive-overview">Overview</a> •
   <a href="#-game-modes">Game Modes</a> •
   <a href="#-core-mechanics--power-ups">Mechanics</a> •
   <a href="#-rage-mode--combos">Rage Mode</a> •
-  <a href="#-controls--mobile-support">Controls</a> •
-  <a href="#-tech-stack--architecture">Tech Stack</a>
+  <a href="#-controls--mobile-support">Controls</a>
 </p>
+
+---
+
+## ⚡ Quick Links
+
+| Resource | Action / Destination | Description |
+| :--- | :--- | :--- |
+| **🎮 Play Live Game** | [**rhino-rage-run.base44.app**](https://rhino-rage-run.base44.app/) | Play directly in browser with zero installation required. |
+| **📱 Cross-Platform** | Desktop & Mobile Responsive | Seamless support for keyboard controls and touch joysticks. |
 
 ---
 
@@ -117,5 +127,6 @@ rhino-rampage/
 ---
 
 <p align="center">
-  <b>Rhino Rampage</b> — Neon Arcade Chaos Powered by React + Canvas.
+  <b>Rhino Rampage</b> — Neon Arcade Chaos Powered by React + Canvas. <br>
+  Play now live at <a href="https://rhino-rage-run.base44.app/">rhino-rage-run.base44.app</a>
 </p>
